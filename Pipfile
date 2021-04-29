@@ -10,6 +10,7 @@ notebook = "*"
 jupyter = "*"
 matplotlib = "*"
 sklearn = "*"
+pytz = "*"
 
 [dev-packages]
 
